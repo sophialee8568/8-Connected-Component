@@ -1,0 +1,48 @@
+for component: 1
+pixel #: 20
+min 0,7 max 9,8
+
+for component: 2
+pixel #: 5
+min 0,24 max 4,24
+
+for component: 3
+pixel #: 40
+min 1,1 max 14,4
+
+for component: 4
+pixel #: 47
+min 1,12 max 14,16
+
+for component: 5
+pixel #: 8
+min 2,10 max 9,10
+
+for component: 6
+pixel #: 18
+min 2,19 max 9,21
+
+for component: 7
+pixel #: 22
+min 7,18 max 18,24
+
+for component: 8
+pixel #: 43
+min 11,1 max 19,8
+
+for component: 9
+pixel #: 21
+min 14,10 max 19,16
+
+for component: 10
+pixel #: 1
+min 14,12 max 14,12
+
+for component: 11
+pixel #: 1
+min 14,19 max 14,19
+
+for component: 12
+pixel #: 8
+min 17,19 max 19,21
+
